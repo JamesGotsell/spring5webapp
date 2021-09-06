@@ -1,5 +1,13 @@
 # Spring Framework 5: Beginner to Guru
 
+
+connect to h2 db 
+
+http://localhost:8080/h2-console 
+
+this should connect to jdbc:h2:mem:testdb 
+
+
 This repository is for an example application built in my [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) online course
 
 The application is a simple Spring Boot 2 / Spring Framework 5 web application. It is used to help students learn how
